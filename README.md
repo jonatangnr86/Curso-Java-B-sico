@@ -1,2 +1,2 @@
-# Curso-Java-B-sico
+# Curso-Java-Basico
 Curso Java Básico Loiane Groner
